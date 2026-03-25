@@ -1,0 +1,55 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": " XÂY DỰNG HỆ THỐNG QUẢN LÝ NHÂN SỰ",
+	"ownedElements": [
+		{
+			"_type": "UMLPackage",
+			"_id": "AAAAAAGc+pT76SOxgss=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "1.UC Diagram"
+		},
+		{
+			"_type": "UMLPackage",
+			"_id": "AAAAAAGc+poWJCO28cs=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "2.Active Diagram"
+		},
+		{
+			"_type": "UMLPackage",
+			"_id": "AAAAAAGc+prwoiO6/xM=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "3.Sequence Diagram"
+		},
+		{
+			"_type": "UMLPackage",
+			"_id": "AAAAAAGc+p8tuSO+egc=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "4.Class Diagram"
+		},
+		{
+			"_type": "UMLPackage",
+			"_id": "AAAAAAGc+p+wNiPCExc=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "5.State Machine Diagram"
+		},
+		{
+			"_type": "UMLPackage",
+			"_id": "AAAAAAGc+p/tzyPGaIw=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "6.ERD"
+		}
+	]
+}
